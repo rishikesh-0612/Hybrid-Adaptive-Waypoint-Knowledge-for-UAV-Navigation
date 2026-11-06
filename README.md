@@ -2,8 +2,7 @@
 
 # Hybrid Adaptive Waypoint Knowledge for Multi-Domain UAV Navigation
 
-🔗 GitHub Repository:
-https://github.com/abhi301203/HAWK
+
 
 
 ---
