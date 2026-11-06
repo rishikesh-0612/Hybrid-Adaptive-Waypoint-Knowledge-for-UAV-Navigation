@@ -259,9 +259,7 @@ Microsoft AirSim
 
 1. Clone the Repository
 
-git clone https://github.com/abhi301203/HAWK.git
-cd HAWK
-
+git clone https://github.com/rishikesh-0612/Hybrid-Adaptive-Waypoint-Knowledge-for-UAV-Navigation.git
 
 ---
 
